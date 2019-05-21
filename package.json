@@ -1,0 +1,15 @@
+{
+  "name": "akdemia-projekt-17334",
+  "version": "1.0.0",
+  "description": "Project for task 17334",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  }
+}
