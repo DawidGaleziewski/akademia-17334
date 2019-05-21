@@ -81,8 +81,6 @@
 ==================================================*/
 /***/
 /*==========  1.1 - @import(s)  ==========*/
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,300,600,700&subset=latin,latin-ext);
-@import url(http://fonts.googleapis.com/css?family=Lato:100,300,400,700,100italic,300italic,400italic,700italic&subset=latin,latin-ext);
 @import url(https://fonts.googleapis.com/css?family=Archivo+Black&display=swap&subset=latin-ext);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,400i,700&display=swap);
 /***/
@@ -9012,15 +9010,15 @@ header.header-image {
       color: #ffffff;
       text-transform: capitalize; }
     #main-slider .carousel-caption h1 {
-      font-size: 48px;
+      font-size: 66px;
       margin-top: 24px;
       margin-bottom: 24px; }
     #main-slider .carousel-caption p {
       font-size: 20px;
       margin-bottom: 24px; }
     #main-slider .carousel-caption .btn-primary {
-      margin-top: 48px;
-      font-size: 14px;
+      margin-top: 0;
+      font-size: 96px;
       padding: 10px 12px; }
   #main-slider .icon-prev, #main-slider .icon-next {
     top: 45%; }
@@ -9034,15 +9032,15 @@ header.header-image {
         color: #ffffff;
         text-transform: capitalize; }
       #main-slider .carousel-caption h1 {
-        font-size: 36px;
+        font-size: 66px;
         margin-top: 24px;
         margin-bottom: 24px; }
       #main-slider .carousel-caption p {
         font-size: 20px;
         margin-bottom: 24px; }
       #main-slider .carousel-caption .btn-primary {
-        margin-top: 48px;
-        font-size: 14px;
+        margin-top: 0;
+        font-size: 96px;
         padding: 10px 12px; }
     #main-slider .icon-prev, #main-slider .icon-next {
       top: 45%; } }
@@ -9056,15 +9054,15 @@ header.header-image {
         color: #ffffff;
         text-transform: capitalize; }
       #main-slider .carousel-caption h1 {
-        font-size: 26px;
+        font-size: 66px;
         margin-top: 24px;
         margin-bottom: 24px; }
       #main-slider .carousel-caption p {
         font-size: 16px;
         margin-bottom: 24px; }
       #main-slider .carousel-caption .btn-primary {
-        margin-top: 24px;
-        font-size: 14px;
+        margin-top: 0;
+        font-size: 96px;
         padding: 10px 12px; }
     #main-slider .icon-prev, #main-slider .icon-next {
       top: 45%; } }
@@ -9078,15 +9076,15 @@ header.header-image {
         color: #ffffff;
         text-transform: capitalize; }
       #main-slider .carousel-caption h1 {
-        font-size: 21px;
+        font-size: 66px;
         margin-top: 18px;
         margin-bottom: 18px; }
       #main-slider .carousel-caption p {
         font-size: 14px;
         margin-bottom: 12px; }
       #main-slider .carousel-caption .btn-primary {
-        margin-top: 12px;
-        font-size: 14px;
+        margin-top: 0;
+        font-size: 96px;
         padding: 5px 6px; }
     #main-slider .icon-prev, #main-slider .icon-next {
       top: 40%; } }
@@ -9100,7 +9098,7 @@ header.header-image {
         color: #ffffff;
         text-transform: capitalize; }
       #main-slider .carousel-caption h1 {
-        font-size: 18px;
+        font-size: 66px;
         margin-top: 0;
         margin-bottom: 0; }
       #main-slider .carousel-caption p {
@@ -9108,8 +9106,8 @@ header.header-image {
         margin-top: 12px;
         margin-bottom: 0; }
       #main-slider .carousel-caption .btn-primary {
-        margin-top: 16px;
-        font-size: 8px;
+        margin-top: 0;
+        font-size: 96px;
         padding: 5px; }
     #main-slider .icon-prev, #main-slider .icon-next {
       top: 45%;
@@ -9127,7 +9125,7 @@ header.header-image {
         color: #ffffff;
         text-transform: capitalize; }
       #main-slider .carousel-caption h1 {
-        font-size: 12px;
+        font-size: 66px;
         margin-top: 0;
         margin-bottom: 0; }
       #main-slider .carousel-caption p {
@@ -9135,8 +9133,8 @@ header.header-image {
         margin-top: 8px;
         margin-bottom: 0; }
       #main-slider .carousel-caption .btn-primary {
-        margin-top: 12px;
-        font-size: 8px;
+        margin-top: 0;
+        font-size: 96px;
         padding: 5px; }
     #main-slider .icon-prev, #main-slider .icon-next {
       top: 40%;

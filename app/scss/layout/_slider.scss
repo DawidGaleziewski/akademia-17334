@@ -52,7 +52,7 @@
 		}
 
 		h1 {
-			font-size: $base-font-size + 32;
+			font-size: $base-font-size + 50;
 			margin-top: $baseline;
 			margin-bottom: $baseline;
 		}
@@ -63,8 +63,8 @@
 		}
 
 		.btn-primary {
-			margin-top: $baseline * 2;
-			font-size: $base-font-size - 2;
+			margin-top: 0;
+			font-size: $base-font-size + 80;
 			padding: 10px 12px;
 		}
 	}
@@ -88,7 +88,7 @@
 			}
 
 			h1 {
-				font-size: $base-font-size + 20;
+				font-size: $base-font-size + 50;
 				margin-top: $baseline;
 				margin-bottom: $baseline;
 			}
@@ -99,8 +99,8 @@
 			}
 
 			.btn-primary {
-				margin-top: $baseline * 2;
-				font-size: $base-font-size - 2;
+				margin-top: 0;
+				font-size: $base-font-size + 80;
 				padding: 10px 12px;
 			}
 		}
@@ -125,7 +125,7 @@
 			}
 
 			h1 {
-				font-size: $base-font-size + 10;
+				font-size: $base-font-size + 50;
 				margin-top: $baseline;
 				margin-bottom: $baseline;
 			}
@@ -136,8 +136,8 @@
 			}
 
 			.btn-primary {
-				margin-top: $baseline;
-				font-size: $base-font-size - 2;
+				margin-top: 0;
+				font-size: $base-font-size + 80;
 				padding: 10px 12px;
 			}
 		}
@@ -162,7 +162,7 @@
 			}
 
 			h1 {
-				font-size: $base-font-size + 5;
+				font-size: $base-font-size + 50;
 				margin-top: $baseline * 0.75;
 				margin-bottom: $baseline * 0.75;
 			}
@@ -173,8 +173,8 @@
 			}
 
 			.btn-primary {
-				margin-top: $baseline * 0.5;
-				font-size: $base-font-size - 2;
+				margin-top: 0;
+				font-size: $base-font-size + 80;
 				padding: 5px 6px;
 			}
 		}
@@ -199,7 +199,7 @@
 			}
 
 			h1 {
-				font-size: $base-font-size + 2;
+				font-size: $base-font-size + 50;
 				margin-top: $margin-none;
 				margin-bottom: $margin-none;
 			}
@@ -211,8 +211,8 @@
 			}
 
 			.btn-primary {
-				margin-top: $base-font-size;
-				font-size: $base-font-size * 0.5;
+				margin-top: 0;
+				font-size: $base-font-size + 80;
 				padding: 5px;
 			}
 		}
@@ -241,7 +241,7 @@
 			}
 
 			h1 {
-				font-size: $base-font-size * 0.75;
+				font-size: $base-font-size + 50;
 				margin-top: $margin-none;
 				margin-bottom: $margin-none;
 			}
@@ -253,8 +253,8 @@
 			}
 
 			.btn-primary {
-				margin-top: $base-font-size * 0.75;
-				font-size: $base-font-size * 0.5;
+				margin-top: 0;
+				font-size: $base-font-size + 80;
 				padding: 5px;
 			}
 		}
